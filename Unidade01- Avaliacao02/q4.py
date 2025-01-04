@@ -26,7 +26,7 @@ palavra2 = random.choice(palavras)
 # Mensagens iniciais
 print("Tente adivinhar as duas palavras!")
 
-print(palavras)
+print(palavras)# pra o usuario saber quais palavras existem
 print("Você tem 7 tentativas.")
 tentativas = 0
 maxTentativas = 7
